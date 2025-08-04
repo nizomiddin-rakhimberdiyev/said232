@@ -1,0 +1,53 @@
+h1{
+    background-color: rgb(188, 188, 252);
+    border-radius: 25px;
+    border: 3px solid red;
+    text-align: center;
+}
+span{
+    background-color: yellow;
+}
+  
+    table {
+        margin: 20px auto;
+        border-collapse: collapse;
+        width: 80%;
+        text-align: left;
+    }
+    th {
+        background: rgb(247, 222, 5);
+        color: rgb(31, 30, 30);
+        padding: 10px;
+        border: 1px solid #000;
+    }
+    td {
+        background: rgb(248, 2, 248);
+        padding: 8px;
+        border: 1px solid #000;
+        color: black;
+    }
+    .model {
+        background: rgb(5, 247, 5);
+    }
+    .btn {
+        background: rgb(6, 226, 6);
+        padding: 10px 20px;
+        border: none;
+        font-weight: bold;
+        cursor: pointer;
+    }
+    table, tr{
+        text-align: left;
+    }
+    .box2{
+        background-color: green;
+    }
+    .said{
+        color: #fa0505;
+    }
+    .said1{
+        color: #e0f007;
+    }
+    .said2{
+        color: #0be616;
+    }
